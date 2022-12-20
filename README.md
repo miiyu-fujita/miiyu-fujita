@@ -16,9 +16,7 @@ I'm an electrical engineering major, currently studying in Canada.
 
 
 🌱 I'm interested in learning more about...
-- Web Development
-- Machine Learning 
-
+- Front End Design
 
 📫 Reach me by email or through LinkedIn! 
   miiyu.fujita@mail.mcgill.ca | https://www.linkedin.com/in/miiyu-fujita/
