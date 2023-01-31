@@ -16,9 +16,6 @@ I'm an electrical engineering major, currently studying in Canada.
 - Business Development Bank of Canada - Cyber/IT Risk Analyst Intern
 
 
-🌱 I'm interested in learning more about...
-- Front End Design
-- Machine Learning Applications
 
 📫 Reach me by email or through LinkedIn! 
   miiyu.fujita@mail.mcgill.ca | https://www.linkedin.com/in/miiyu-fujita/
