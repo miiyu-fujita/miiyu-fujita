@@ -11,6 +11,7 @@ I'm an electrical engineering major, currently studying in Canada.
 
 
 👩🏻‍💻 Where I've worked
+- Pomerleau - Software Developer Intern
 - [McGill - Research Intern](https://github.com/miiyu-fujita/sure2022)
 - Business Development Bank of Canada - Cyber/IT Risk Analyst Intern
 
