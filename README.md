@@ -2,14 +2,6 @@
 
 I'm an electrical engineering major, currently studying in Canada.
 
-
-✨ Projects I'm proud of 
-- Golf Ball Customization Service Landing Page
-  [Website](https://create-your-golf.netlify.app/) | [Code](https://github.com/miiyu-fujita/create-your-golf)
-- Full-Stack Note Taking App 
-  [Website](https://react-note-taker.netlify.app/) | [Code](https://github.com/miiyu-fujita/react-notes-app)
-
-
 👩🏻‍💻 Where I've worked
 - Pomerleau - Software Developer Intern
 - [McGill - Research Intern](https://github.com/miiyu-fujita/sure2022)
