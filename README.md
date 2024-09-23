@@ -3,6 +3,7 @@
 I'm an electrical engineering major, currently studying in Canada.
 
 👩🏻‍💻 Where I've worked
+- Morgan Stanley - Technology Summer Analyst
 - Haivision - Software Development Intern
 - Pomerleau - Software Developer Intern
 - [McGill - Research Intern](https://github.com/miiyu-fujita/sure2022)
